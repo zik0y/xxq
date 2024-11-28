@@ -1,0 +1,15 @@
+{
+  "name": "parcel-experiment",
+  "version": "1.0.0",
+  "description": "一个简单的学习产物",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "summer_xie",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}
